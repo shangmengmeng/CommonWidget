@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CommonWidgetDemo</string>
+    <string name="lorem_ipsum">据The Block消息，4月14日，欧盟委员会发布了有关打击日益数字化的有组织犯罪生态系统的新战略。报告中引用的特定风险领域包括加密货币交易、黑暗市场和恶意软件等。报告认为调查人员需要数字化其行动。报告称：“要侦查和起诉有组织犯罪，调查人员需要侦查可疑的在线活动、跟踪虚拟货币犯罪交易、了解他们找到了什么（数据可以被加密或必须与其他数据放在一起）、保存数据并在法庭上将其用作电子证据。”报告中引用的特定风险领域包括加密货币交易、黑暗市场和恶意软件等。/n
+    欧盟委员会发布了有关打击日益数字化的有组织犯罪生态系统的新战略。报告中引用的特定风险领域包括加密货币交易、黑暗市场和恶意软件等。</string>
+    <string name="lorem_ipsum2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras feugiat, nunc eget volutpat viverra, lacus ligula venenatis nulla, in accumsan eros eros nec ipsum. Fusce eget massa id lorem blandit lobortis. Donec lacus ligula, commodo quis eleifend ac, rhoncus sed mi. </string>
+    <string name="lorem_ipsum3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Cras feugiat, nunc eget volutpat viverra, lacus ligula venenatis nulla, in accumsan eros eros nec ipsum. Fusce eget massa id lorem blandit lobortis.</string>
+    <string name="show_all_content">Show all content</string>
+    <string name="one_line_text">One line text</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':CommonWidgetLib'
+include ':app'
+rootProject.name = "CommonWidgetDemo"
